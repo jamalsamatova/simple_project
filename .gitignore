@@ -125,5 +125,8 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-# Pyre type checker
+# Pyre type checker - чтобы игнорировал при отправке
 .pyre/
+media/
+.idea/
+idea/
